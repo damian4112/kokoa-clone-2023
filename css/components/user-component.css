@@ -51,7 +51,8 @@
     display: block;
 }
 
-.user-component__time2 {
-    margin-top: 5px;
-    display: flex;
+.user-component__subtitle i {
+    font-size: 15px;
+    color: red;
+    margin-left: 5px;
 }
